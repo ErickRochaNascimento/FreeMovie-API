@@ -49,7 +49,7 @@ Tudo isso de forma rápida e estilizada, com uma interface moderna e responsiva.
 - **HTML5** — Estrutura do site  
 - **CSS3** — Design moderno e responsivo  
 - **JavaScript** — Consumo da API e manipulação do DOM  
-- **[BrasilAPI](https://brasilapi.com.br/)** — Fonte de dados do CNPJ  
+- **[IMDb API](https://imdb.iamidiotareyoutoo.com/)** — Fonte de dados dos filmes
 
 ---
 
@@ -57,21 +57,18 @@ Tudo isso de forma rápida e estilizada, com uma interface moderna e responsiva.
 
 **Entrada:**  
 ```
-CNPJ: 19131243000197
+Filme: Avengers
 ```
 
 **Saída esperada:**
 ```
-Nome Fantasia: EMPRESA X LTDA
-Razão Social: EMPRESA X COMÉRCIO DE ALIMENTOS LTDA
-CNPJ: 19.131.243/0001-97
-Abertura: 10/03/2010
-Situação: ATIVA
-Endereço: Rua Exemplo, 123 - Centro
-Cidade: São Paulo / SP
-CEP: 01000-000
-Telefone: (11) 1234-5678
-Email: contato@empresa.com.br
+- Vários cards contendo:
+
+Título: "The Avengers"
+Poster do filme
+Título alternativo: "The Avengers (2012)"
+Ano: 2012
+Atores: "Robert Downey Jr., Chris Evans, Scarlett Johansson..."
 ```
 
 ---
@@ -79,7 +76,7 @@ Email: contato@empresa.com.br
 ## 🌐 Acesse o site online:
 
 O projeto está disponível publicamente através do GitHub Pages. Você pode testá-lo diretamente neste link:
-👉 https://erickrochanascimento.github.io/API-CNPJ/
+👉 https://erickrochanascimento.github.io/FreeMovie-API/
 
 
 ---
@@ -95,4 +92,4 @@ O projeto está disponível publicamente através do GitHub Pages. Você pode te
 ## 🪪 Licença
 
 Este projeto é de uso livre para fins de estudo e aprendizado.  
-Os dados são públicos e provenientes da [BrasilAPI](https://brasilapi.com.br/).
+Os dados são públicos e provenientes da [IMDb API](https://imdb.iamidiotareyoutoo.com/).
