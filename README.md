@@ -78,6 +78,12 @@ Atores: "Robert Downey Jr., Chris Evans, Scarlett Johansson..."
 O projeto está disponível publicamente através do GitHub Pages. Você pode testá-lo diretamente neste link:
 👉 https://erickrochanascimento.github.io/FreeMovie-API/
 
+---
+
+## 🪪 Licença
+
+Este projeto é de uso livre para fins de estudo e aprendizado.  
+Os dados são públicos e provenientes da [IMDb API](https://imdb.iamidiotareyoutoo.com/).
 
 ---
 
@@ -86,10 +92,3 @@ O projeto está disponível publicamente através do GitHub Pages. Você pode te
 **Erick Rocha Nascimento**  
 📘 Desenvolvido como projeto prático de estudo de **APIs e JavaScript**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
-
----
-
-## 🪪 Licença
-
-Este projeto é de uso livre para fins de estudo e aprendizado.  
-Os dados são públicos e provenientes da [IMDb API](https://imdb.iamidiotareyoutoo.com/).
